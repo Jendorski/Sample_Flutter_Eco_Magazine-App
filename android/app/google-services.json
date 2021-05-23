@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "231898013768",
+    "project_id": "sampleecomagazine",
+    "storage_bucket": "sampleecomagazine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231898013768:android:3a37684d999b011a2ff87d",
+        "android_client_info": {
+          "package_name": "com.sample_eco_magazine_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231898013768-l13h07unvfk9logm3129vi1p645ktma4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB57WVatPL4btUciqovHG0msdg7tIfy80I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231898013768-l13h07unvfk9logm3129vi1p645ktma4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
