@@ -81,6 +81,7 @@ class _AuthenticationLayoutState extends State<AuthenticationLayout> {
               )
             : AppButtonStyleOne(
                 buttonTitle: widget.mainButtonTitle,
+                color: primaryColor,
                 onTap: () {
                   if (_formKey.currentState.validate()) {
                     widget.onMainButtonTap();
